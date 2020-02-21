@@ -11,7 +11,9 @@ My project will be a searchable collection of Missouri Wildlife. Effectively, I 
 
 The project's initial features will be minimal and allow for entries and tags to be added. Further features are inevitable but for the immediate feature allowing a validated administrator account to add/edit entries, as well as allowing the user to search by tags or names are the primary goals.
 ### Features
-Include Features here
+-A validated administrator account with the ability to add/edit entries through a form
+-The ability for users to search for an entry based on tags or scientific name
+-The ability for users to view related entries by selecting a tag or family name
 ### Technologies
 Include Technologies here
 ### What I'll Have to Learn
