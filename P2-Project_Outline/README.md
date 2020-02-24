@@ -15,8 +15,11 @@ The project's initial features will be minimal and allow for entries and tags to
 -The ability for users to search for an entry based on tags or scientific name
 -The ability for users to view related entries by selecting a tag or family name
 ### Technologies
-Include Technologies here
+-Javascript
+-Java
+-MySql
 ### What I'll Have to Learn
-Include what you will need to learn here
+-How to have a user inputted unsername and password to resctrict acess and ensure security
+-How to host a webpage
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/GV80nrio/liftoff-project
